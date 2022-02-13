@@ -26,7 +26,6 @@ void selection_sort(int* p, int size)
 
 int main()
 {
-
 	int a[SIZE];
 	randomize();
 	set_random_array(a, SIZE);
